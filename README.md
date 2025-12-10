@@ -47,7 +47,7 @@ LinkUp solves this by:
 git clone https://github.com/AayyusH11/LinkUp-Ayush.git
 cd LinkUp-Ayush
 
-# Required environment variables (.env)
+Required environment variables (.env)
 STREAM_API_KEY=
 STREAM_API_SECRET=
 MONGO_URI=
@@ -56,13 +56,13 @@ NODE_ENV=
 VITE_STREAM_API_KEY=
 
 
-# Backend setup
+Backend setup
 cd backend
 npm install
 npm start
 
 
-# Frontend setup (new terminal)
+Frontend setup (new terminal)
 cd frontend
 npm install
 npm start
