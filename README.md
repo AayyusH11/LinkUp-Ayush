@@ -41,32 +41,6 @@ LinkUp solves this by:
 - Deployment: Render  
 
 ---
-## Running the Project Locally
-
-# Clone the repository
-git clone https://github.com/AayyusH11/LinkUp-Ayush.git
-cd LinkUp-Ayush
-
-Required environment variables (.env)
-STREAM_API_KEY=
-STREAM_API_SECRET=
-MONGO_URI=
-JWT_SECRET_KEY=
-NODE_ENV=
-VITE_STREAM_API_KEY=
-
-
-Backend setup
-cd backend
-npm install
-npm start
-
-
-Frontend setup (new terminal)
-cd frontend
-npm install
-npm start
-
 
 
 
